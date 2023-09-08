@@ -1,0 +1,15 @@
+*.pyc
+*.so
+*.o
+visualizations/
+runs/
+outputs/
+*.egg
+pointnet2.egg-info/
+*.out
+results
+SemanticKitti
+nuScenes_like_SKitti
+test
+*/build/*
+4D-PLS
